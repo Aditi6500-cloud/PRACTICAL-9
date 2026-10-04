@@ -1,6 +1,4 @@
-# PRACTICAL-9
-GITHUT REPOSITORY AND AI DOCUMENTATION
-# PRACTICAL-9
+Practical 9
 
 ## GitHub Repository and AI Documentation
 
