@@ -21,3 +21,8 @@ The required files have been uploaded successfully to the GitHub repository.
 
 ### Conclusion
 The GitHub repository was created successfully and the project files and documentation were added.
+### Pull Request Workflow
+
+Changes are reviewed before merging into the main branch.
+
+AI assistance was used for documentation.
